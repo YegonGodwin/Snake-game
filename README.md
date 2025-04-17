@@ -1,7 +1,7 @@
 # Snake Game
 
 A simple Snake game built with JavaScript, HTML, and CSS.
-
+<image src="screenshot.png">
 ## How to Play
 - Use the arrow keys to control the snake.
 - Eat the red food squares to grow and increase your score.
