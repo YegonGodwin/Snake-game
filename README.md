@@ -2,7 +2,7 @@
 
 # 🧠 Classic Challenge
 
-> *Grow your skills, conquer the classic challenge!*
+> _Grow your skills, conquer the classic challenge!_
 
 ![Last Commit](https://img.shields.io/badge/last%20commit-april-blue?style=flat&logo=git)
 ![Language](https://img.shields.io/badge/javascript-83.6%25-blue?style=flat&logo=javascript)
@@ -18,12 +18,15 @@
 ---
 
 Let the journey of learning and coding continue 🚀
-<image src="screenshot.png" height="400">
+<image src="screenshot.png" height="800" width="900">
+
 ## How to Play
+
 - Use the arrow keys to control the snake.
 - Eat the red food squares to grow and increase your score.
 - Avoid hitting the walls or yourself.
 - Click the Restart button to play again.
 
 ## Running the Game
+
 Open `index.html` in your browser to play the game.
