@@ -11,7 +11,7 @@
 ---
 
 ## 🛠 Built with the tools and technologies:
-![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat&logo=HTML&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=flat&logo=HTML&logoColor=orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![CSS](https://img.shields.io/badge/CSS-563D7C?style=flat&logo=css3&logoColor=white)
 
